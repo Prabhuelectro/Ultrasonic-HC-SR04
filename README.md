@@ -11,5 +11,5 @@ HC-SR04 Ultrasonic ranging module provides 2cm - 400cm non-contact measurement f
 <h2>Interfacing the HC-SR04 with Arduino Uno</h2>
 
 <p align="center">
-<img width="550" height="350" src="https://raw.githubusercontent.com/Prabhuelectro/Ultrasonic-HC-SR04/master/image/HCSR04-with-arduino.png">
+<img width="650" height="350" src="https://raw.githubusercontent.com/Prabhuelectro/Ultrasonic-HC-SR04/master/image/HCSR04-with-arduino.png">
 </p>
