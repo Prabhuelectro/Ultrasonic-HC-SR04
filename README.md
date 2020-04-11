@@ -2,7 +2,7 @@
 
 ## Library for interfacing the HC-SR04
 
-### HC-SR04 Ultrasonic ranging module provides 2cm - 400cm non-contact measurement function,The ranging accuracy can reach to 3mm.The modules includes ultrasonic transmitters, receiver and control circuit.
+HC-SR04 Ultrasonic ranging module provides 2cm - 400cm non-contact measurement function,The ranging accuracy can reach to 3mm.The modules includes ultrasonic transmitters, receiver and control circuit.
 
 <p align="center">
 <img width="450" height="350" src="https://raw.githubusercontent.com/Prabhuelectro/Ultrasonic-HC-SR04/master/image/HC-SR04%20Ultrasonic%20Range%20Measurement%20Module.jpg">
@@ -14,7 +14,7 @@
 <img width="650" height="450" src="https://raw.githubusercontent.com/Prabhuelectro/Ultrasonic-HC-SR04/master/image/HCSR04-with-arduino.png">
 </p>
 
-### Arduino digital pins are 5V compatible so Powering the HC-SR04 should be 5V power supply
+## Arduino digital pins are 5V compatible so Powering the HC-SR04 should be 5V power supply
 
 ## Example
 
@@ -42,7 +42,7 @@ void loop()
 <img width="650" height="450" src="https://raw.githubusercontent.com/Prabhuelectro/Ultrasonic-HC-SR04/master/image/hc-sr04-esp8266.png">
 </p>
 
-### NodeMCU ESP8266 digital pins are 3.3V compatible so Powering the HC-SR04 should be 3.3V power supply
+## NodeMCU ESP8266 digital pins are 3.3V compatible so Powering the HC-SR04 should be 3.3V power supply
 
 ## Example
 
