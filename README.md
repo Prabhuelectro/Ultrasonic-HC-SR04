@@ -39,7 +39,7 @@ void loop()
 ## Interfacing the HC-SR04 with NodeMcu ESP8266
 
 <p align="center">
-<img width="650" height="550" src="https://raw.githubusercontent.com/Prabhuelectro/Ultrasonic-HC-SR04/master/image/hc-sr04-esp8266.png">
+<img width="550" height="450" src="https://raw.githubusercontent.com/Prabhuelectro/Ultrasonic-HC-SR04/master/image/hc-sr04-esp8266.png">
 </p>
 
 ### Note: NodeMCU ESP8266 digital pins are 3.3V compatible so Powering the HC-SR04 should be 3.3V power supply
