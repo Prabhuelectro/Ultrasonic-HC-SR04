@@ -14,7 +14,7 @@ HC-SR04 Ultrasonic ranging module provides 2cm - 400cm non-contact measurement f
 <img width="650" height="450" src="https://raw.githubusercontent.com/Prabhuelectro/Ultrasonic-HC-SR04/master/image/HCSR04-with-arduino.png">
 </p>
 
-### Note: ***Arduino digital pins are 5V compatible so Powering the HC-SR04 should be 5V power supply***
+### Note: Arduino digital pins are 5V compatible so Powering the HC-SR04 should be 5V power supply
 
 ## Example
 
