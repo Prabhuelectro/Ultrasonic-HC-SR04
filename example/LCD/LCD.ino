@@ -3,7 +3,7 @@
 
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2); 
 
-Ultrasonic hc(9,8); // (Trig PIN,Echo PIN)
+Ultrasonic hc_sr04(9,8); // (Trig PIN,Echo PIN)
 
 void setup() 
 {
@@ -14,7 +14,7 @@ void loop()
 {
 	lcd.clear();
 	lcd.setCursor(0, 0);
-	lcd.print(ultrasonic.Ranging(CM)); // CM or INC
+	lcd.print(hc_sr04.Ranging(CM)); // CM or INC
 	lcd.print("cm");
 	delay(100);
 } 
