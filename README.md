@@ -1,6 +1,6 @@
 <h1><b>Ultrasonic-HC-SR04</b></h1>
 
-<h2><b>Library for interfacing the HC-SR04</b></h2>
+<h2>Library for interfacing the HC-SR04</h2>
 
 <h3>HC-SR04 Ultrasonic ranging module provides 2cm - 400cm non-contact measurement function,The ranging accuracy can reach to 3mm.The modules includes ultrasonic transmitters, receiver and control circuit.</h3>
 
