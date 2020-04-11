@@ -1,6 +1,6 @@
 #include <Ultrasonic.h>
 
-Ultrasonic hc(9,8); // (Trig PIN,Echo PIN)
+Ultrasonic hc_sr04(9,8); // (Trig PIN,Echo PIN)
 
 void setup() 
 {
@@ -9,7 +9,7 @@ void setup()
 
 void loop()
 {
-  Serialprint.print(hc.distance(CM)); // CM or INC
+  Serialprint.print(hc_sr04.distance(CM)); // CM or INC
   Serial.println("cm");
   delay(300);
 }
